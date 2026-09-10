@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Anushka 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F2&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+Machine+Learning+%26+Statistical+Modelling;MSc+Data+Science%2C+University+of+Western+Australia;Applying+ML+%2F+AI+to+Genomics+%26+Environmental+DNA;Python+%C2%B7+R+%C2%B7+SQL+%C2%B7+Databricks+%C2%B7+AWS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F2&center=true&vCenter=true&width=650&lines=Data+Scientist;MSc+Data+Science%2C+University+of+Western+Australia;Applying+ML+%2F+AI+to+Genomics+%26+Environmental+DNA;Python+%C2%B7+R+%C2%B7+SQL+%C2%B7+Databricks+%C2%B7+AWS" alt="Typing SVG" />
 </p>
 
 I'm a **Data Scientist** (MSc, UWA) who builds machine learning models, runs statistical analysis, and designs cloud data platforms — currently applying that toolkit to genomics and environmental DNA (eDNA) research at the Minderoo OceanOmics Centre. My work spans the full pipeline: from statistical modelling and ML experimentation to the engineering that gets data model-ready at scale.

@@ -1,28 +1,55 @@
 <h1 align="center">Hi, I'm Anushka 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Bioinformatics+Research+Assistant;Building+FAIR+data+pipelines+for+eDNA+%26+genomics;Python+%C2%B7+R+%C2%B7+SQL+%C2%B7+PostgreSQL;Turning+biological+data+into+reproducible+platforms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F2&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+Machine+Learning+%26+Statistical+Modelling;MSc+Data+Science%2C+University+of+Western+Australia;Applying+ML+%2F+AI+to+Genomics+%26+Environmental+DNA;Python+%C2%B7+R+%C2%B7+SQL+%C2%B7+Databricks+%C2%B7+AWS" alt="Typing SVG" />
 </p>
 
-I bridge **software engineering** and **molecular biology** — designing scalable bioinformatics workflows, building relational databases, and turning messy lab/sequencing data into clean, reproducible research platforms.
+I'm a **Data Scientist** (MSc, UWA) who builds machine learning models, runs statistical analysis, and designs cloud data platforms — currently applying that toolkit to genomics and environmental DNA (eDNA) research at the Minderoo OceanOmics Centre. My work spans the full pipeline: from statistical modelling and ML experimentation to the engineering that gets data model-ready at scale.
 
-- 🔬 Currently a **Bioinformatics Research Assistant** at the **Minderoo OceanOmics Centre, UWA**, working on environmental DNA (eDNA) data systems
-- 🧬 Focused on eDNA, genomics, FAIR data & metadata standards, and taxonomic/biodiversity data
-- 🛠️ I build ETL pipelines, relational databases, and automation tools that connect wet-lab workflows to analysis-ready data
-- 🎓 MSc Data Science, University of Western Australia · BSc (Hons) Computer Systems Engineering
+- 📊 **Data Scientist** — Master of Data Science, UWA: machine learning, AI, statistical modelling, cloud computing & research computing
+- 🤖 Applying **ML/AI and statistical methods** to genomics & eDNA data at the **Minderoo OceanOmics Centre, UWA**
+- ☁️ Comfortable across the modern DS stack: **Databricks Lakehouse (Spark, Delta Lake)**, **AWS SageMaker & Bedrock**, and Python/R for modelling & analysis
+- 🧠 More than data cleaning — I design experiments, build predictive models, and turn research questions into statistically grounded, reproducible answers
+- 🎓 MSc Data Science, University of Western Australia · BSc (Hons) Computer Systems Engineering (First Class)
 - 📍 Perth, Western Australia
-- 💬 Ask me about eDNA pipelines, PostgreSQL schema design, or lab-to-sequencing data automation
 
 <br/>
 
-### 🧰 Tech Stack
+### 🧠 Data Science & Machine Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,postgresql,mysql,sqlite,js,html,css,react,nodejs,electron,git,github,aws,linux&perline=8" alt="Tech stack icons" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Statistical%20Modelling-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative%20AI-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Predictive%20Analytics-4B8BBE?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/Databricks%20Lakehouse-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS%20SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,jupyter&perline=3" alt="Data science languages" />
+</p>
+
+<br/>
+
+### 🧰 Full Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,postgresql,mysql,sqlite,aws,js,react,nodejs,electron,git,github,linux&perline=7" alt="Tech stack icons" />
 </p>
 
 <table align="center">
 <tr>
+<td valign="top" width="33%">
+
+**Data Science**
+Machine Learning · Statistical Modelling · Generative AI · Predictive Analytics · Research Computing
+
+</td>
 <td valign="top" width="33%">
 
 **Languages**
@@ -31,34 +58,28 @@ Python · R · SQL · JavaScript · HTML5 · CSS3
 </td>
 <td valign="top" width="33%">
 
-**Data & Bioinformatics**
-eDNA · Genomics · ETL Pipelines · FAIR Data · Data Modelling · Data Validation
-
-</td>
-<td valign="top" width="33%">
-
-**Databases & Cloud**
-PostgreSQL · MySQL · SQLite · DBeaver · AWS (S3) · Git/GitHub · Linux
+**Cloud & Big Data**
+AWS (SageMaker, Bedrock, S3) · Databricks Lakehouse · Apache Spark · Delta Lake
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="33%">
 
-**Analytics & Viz**
-Power BI · Databricks · R Shiny · Excel
+**Databases**
+PostgreSQL · MySQL · SQLite · DBeaver
+
+</td>
+<td valign="top" width="33%">
+
+**Domain: eDNA & Genomics**
+FAIR Data · Metadata Standards · Taxonomic & Biodiversity Data · ETL Pipelines
 
 </td>
 <td valign="top" width="33%">
 
 **App Development**
-React · Node.js · Electron · REST APIs
-
-</td>
-<td valign="top" width="33%">
-
-**Certifications**
-AWS Cloud Foundations · AWS GenAI Practitioner · Databricks Fundamentals
+React · Node.js · Electron · REST APIs · R Shiny · Power BI
 
 </td>
 </tr>
@@ -70,16 +91,15 @@ AWS Cloud Foundations · AWS GenAI Practitioner · Databricks Fundamentals
 
 | Project | Description |
 |---|---|
-| 🌊 **Ocean Genome Explorer** | R Shiny app for exploring marine biodiversity data |
-| 📊 **Alike Analytica** | Electron/React desktop app for automated reporting |
-| 🌍 **CarbonESpace** | Global carbon project database platform |
+| 🌊 **Ocean Genome Explorer** | R Shiny app applying data modelling & analysis to integrate multiple biodiversity databases for exploring marine taxa and genome sequencing data |
+| 📊 **Alike Analytica** | Electron/React desktop app automating evaluation reports, social media analysis, and dashboard generation |
+| 🌍 **CarbonESpace** | Database platform for certified & non-certified carbon projects with rich project-level analytics |
 | ⚙️ **NPT Automation Tool** | Workflow automation platform |
 | 🏭 **Xplora Maintenance** | Enterprise maintenance management platform |
 
 <br/>
 
 ### 📈 GitHub Stats
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnushkaSandeepa&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
